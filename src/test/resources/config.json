@@ -1,0 +1,29 @@
+{
+	"driverType": "local",
+	"explicitWait": 15,
+	"implicitWait": 10,
+	"local": {
+		"browser": "chrome",
+		"browserSize": "1920x1080"
+	},
+	"browserstack": {
+		"username": "",
+		"accessKey": "",
+		"remoteUrl": "https://%s:%s@hub-cloud.browserstack.com/wd/hub",
+		"browser": "chrome",
+		"browserSize": "",
+		"capabilities": {
+			"browser_version": "latest",
+			"os": "window",
+			"os_version": "latest",
+			"resolution": "1920x1080",
+			"project": "NashTech_Automated_Test"
+		}
+	},
+	"remote": {
+		"remoteUrl": "https://127.0.0.1/wd/hub",
+		"browser": "chrome",
+		"browserSize": "",
+		"platform": "window"
+	}
+}

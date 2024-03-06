@@ -1,0 +1,13 @@
+{
+  "environment": "dev",
+  "dev": {
+    "url": "https://demoqa.com",
+    "backend_host": "https://demoqa.com"
+  },
+  "test": {
+    "url": "https://demoqa.com/test/login"
+  },
+  "staging": {
+    "url": "https://demoqa.com/staging/login"
+  }
+}
