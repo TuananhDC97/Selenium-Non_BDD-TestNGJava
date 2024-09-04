@@ -34,17 +34,15 @@ The project focuses on automated testing of both UI (User Interface) elements an
 
  # Getting Started # 
 
-**1. Prerequisites:**  Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official Node.js website (https://nodejs.org/en).
-
-**2. Clone the Repository:** Use Git to clone this repository locally:
+**1. Clone the Repository:** Use Git to clone this repository locally:
 
 `git clone https://github.com/TuananhDC97/Selenium-Non_BDD-TestNGJava.git`
 
-**3. Set Up Dependencies:**
+**2. Set Up Dependencies:**
 
 Add the required Selenium and TestNG libraries to your project's build path (instructions specific to your IDE).
 
-**4. Download WebDriver:**
+**3. Download WebDriver:**
 
 Download the appropriate WebDriver for your browser (e.g., ChromeDriver for Chrome) from https://www.selenium.dev/documentation/webdriver/. Place it in a location accessible to your project.
 
